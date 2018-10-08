@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986087153413",
+    "firebase_url": "https://getplax-1486a.firebaseio.com",
+    "project_id": "getplax-1486a",
+    "storage_bucket": "getplax-1486a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986087153413:android:5d9e87c589072f8a",
+        "android_client_info": {
+          "package_name": "com.example.root.getplax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986087153413-s1iih1ui0l20htl7ll1q5h281n8a0m3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.getplax",
+            "certificate_hash": "a89f183d900f0886cd5ea0a652610acf4ec26d52"
+          }
+        },
+        {
+          "client_id": "986087153413-7ft2kggilfvjqq0kunpo16mf4mcdpd0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvzlI8ze-vqLL3d0fSZPnTte2LibeGqbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986087153413-7ft2kggilfvjqq0kunpo16mf4mcdpd0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
